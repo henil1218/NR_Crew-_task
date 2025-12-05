@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #f6f7fb;
+}
+
+.card {
+  border: none;
+}
+
+.list-group-item {
+  border-left: 0;
+  border-right: 0;
+}
+
